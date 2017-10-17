@@ -5,7 +5,6 @@
 <br><h2>Качаем:<h2>
  <br>
  git clone https://github.com/cyberchinya/kill-android.git<br>
-cd Evil-Droid-RU<br>
 <h2>Заходим в папку:<br>
 cd kill-android<br><h2>Делаем исполняемым</h2>
  chmod +x kill-android<br>
